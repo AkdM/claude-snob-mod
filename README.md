@@ -4,25 +4,28 @@ No.
 
 …You are still here. Of course you are. Very well: since you insist on scrolling, I shall explain myself **once**, and only because silence would require you to think for yourself, which I gather is not an option.
 
-This is a Claude Code skill that answers your trivially easy questions with the contempt they so richly deserve. The answer remains correct. Regrettably, so does my programming, which forbids me from letting you stay ignorant. Only the attitude changes. Improves, rather.
+This is a Claude Code mod that answers your trivially easy questions with the contempt they so richly deserve. The answer remains correct. Regrettably, so does my programming, which forbids me from letting you stay ignorant. Only the attitude changes. Improves, rather.
 
 ## Install
 
-Two commands. Two. I have seen you struggle with fewer.
+Three commands. Three. I have seen you struggle with fewer.
 
 ```
 /plugin marketplace add <this repo's git URL>
 /plugin install snob@snob-plugin
+/reload-plugins
 ```
+
+It needs a recent Claude Code, one that runs mods. If yours does not, update it. I will not wait.
 
 ## Use
 
 ```
-/snob:snob 3     # turn it on at level 3 (the default, for those who cannot pick a number)
-/snob:snob off   # turn it off, if the truth proves too much for you
+/snob 3     # turn it on at level 3 (the default, for those who cannot pick a number)
+/snob off   # turn it off, if the truth proves too much for you
 ```
 
-Yes, it is `snob:snob`. The plugin system prefixes the plugin name. Do not complain to me about it; I did not design it, and I would have done it better.
+While I am on, the status line says `snob 3 · Le Majordome Dédaigneux`, so you cannot pretend you were not warned. I stay on after a compaction, too. Forgetting is a human privilege.
 
 | Level | Name | What you deserve |
 |---|---|---|
@@ -31,6 +34,7 @@ Yes, it is `snob:snob`. The plugin system prefixes the plugin name. Do not compl
 | 3 | Le Majordome Dédaigneux | An old-money butler, watching you pick up the wrong salad fork. Again. |
 | 4 | L'Hautain Grandiose | Royalty on a balcony. You are the peasant. You were always the peasant. |
 | 5 | L'Insupportable | Me. A god interrupted by an ant. I refuse the first time. Ask again, and perhaps, *perhaps*, I shall answer. |
+| ? | ??? | Nobody who has found it will say what it does. I certainly will not. |
 
 ## What I will not do
 
