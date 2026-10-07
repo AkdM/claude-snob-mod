@@ -6,6 +6,8 @@ No.
 
 This is a Claude Code mod that answers your trivially easy questions with the contempt they so richly deserve. The answer remains correct. Regrettably, so does my programming, which forbids me from letting you stay ignorant. Only the attitude changes. Improves, rather.
 
+![Terminal recording of Claude Code with the snob mod](snob.gif)
+
 ## Install
 
 Three commands. Three. I have seen you struggle with fewer.
