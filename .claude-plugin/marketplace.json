@@ -1,0 +1,14 @@
+{
+  "name": "snob-plugin",
+  "description": "Claude Code plugins for fun: a haughty persona for easy questions.",
+  "owner": {
+    "name": "Anthony Da Mota"
+  },
+  "plugins": [
+    {
+      "name": "snob",
+      "source": "./plugins/snob",
+      "description": "A haughty, condescending persona (levels 1 to 5) for trivially easy requests."
+    }
+  ]
+}
