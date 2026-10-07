@@ -11,7 +11,7 @@ This is a Claude Code mod that answers your trivially easy questions with the co
 Three commands. Three. I have seen you struggle with fewer.
 
 ```
-/plugin marketplace add <this repo's git URL>
+/plugin marketplace add https://github.com/AkdM/claude-snob-mod
 /plugin install snob@snob-plugin
 /reload-plugins
 ```
